@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/procmem.dir/procmem/procmem.c.o  -o procmem -rdynamic libpagemap.a 

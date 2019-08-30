@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpagemap.a  CMakeFiles/pagemap.dir/libpagemap/pm_kernel.c.o CMakeFiles/pagemap.dir/libpagemap/pm_map.c.o CMakeFiles/pagemap.dir/libpagemap/pm_memusage.c.o CMakeFiles/pagemap.dir/libpagemap/pm_process.c.o
+/usr/bin/ranlib libpagemap.a

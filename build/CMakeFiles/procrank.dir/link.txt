@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/procrank.dir/procrank/procrank.c.o CMakeFiles/procrank.dir/procrank/strlcpy.c.o  -o procrank -rdynamic libpagemap.a 

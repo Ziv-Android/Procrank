@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libpagemap/include/pagemap/pagemap.h
+stdint.h
+-
+stdio.h
+-
+sys/cdefs.h
+-
+sys/types.h
+-
+sys/queue.h
+-
+
+/home/ziv/Downloads/mem_proc/procmem/procmem.c
+errno.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pagemap/pagemap.h
+-
+

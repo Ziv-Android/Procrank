@@ -1,0 +1,5 @@
+/home/ziv/Downloads/mem_proc/build_7.0/CMakeFiles/edit_cache.dir
+/home/ziv/Downloads/mem_proc/build_7.0/CMakeFiles/rebuild_cache.dir
+/home/ziv/Downloads/mem_proc/build_7.0/CMakeFiles/procrank.dir
+/home/ziv/Downloads/mem_proc/build_7.0/CMakeFiles/procmem.dir
+/home/ziv/Downloads/mem_proc/build_7.0/CMakeFiles/pagemap.dir
